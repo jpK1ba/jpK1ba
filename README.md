@@ -2,7 +2,7 @@
 <p align=center>
   Welcome to my Hub! 👋
   <br><br>
-  I'm an Engineer turned Data Scientist. Throughout my Masters' Program, I've had several awesome experiences in applying various algorithms and building different models, e.g., Recommender Systems, Classifier Models (Binary and Multi-class), Regression Models. I'm adept in data wrangling, mining, visualization, analysis, and modelling. 
+  I'm an Engineer turned Data Scientist. Throughout my Master's Program, I've had several awesome experiences in applying various algorithms and building different models, e.g., Recommender Systems, Classifier Models (Binary and Multi-class), Regression Models. I'm adept in data wrangling, mining, visualization, analysis, and modelling. 
   <br><br>
   In this hub, you can find some of the personal projects I've had the pleasure of undertaking. Have fun looking around!
 </p>
