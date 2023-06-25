@@ -8,8 +8,8 @@
 </p>
 
 ***
-
-
+<h3 align=center>Languages and Libraries</h3>
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)]
 
 
 
